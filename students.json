@@ -13,5 +13,20 @@
     "id": 3,
     "name": "Kabir Singh",
     "course": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Meera Iyer",
+    "course": "Mechanical Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Verma",
+    "course": "Civil Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Gupta",
+    "course": "Data Science"
   }
 ]

@@ -27,7 +27,7 @@ test('handles concurrent student requests', async () => {
   const students = await allResponse.json();
   const student = await studentResponse.json();
 
-  assert.equal(students.length, 3);
+  assert.equal(students.length, 6);
   assert.equal(student.id, 2);
 });
 
