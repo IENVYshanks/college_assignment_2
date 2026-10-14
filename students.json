@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "course": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Diya Patel",
+    "course": "Information Technology"
+  },
+  {
+    "id": 3,
+    "name": "Kabir Singh",
+    "course": "Electronics"
+  }
+]
